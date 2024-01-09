@@ -4,3 +4,4 @@ It's essential to have knowledge about Kusto Query that you can acquire from htt
 
 Initiate your connection to Application Insights by incorporating the specified API key in the headers.
 
+Take a look at the code file azure_api_application_insights.ipynb. I've gathered data from Azure and integrated it into a Pandas dataframe, which can be utilized for data analysis.
