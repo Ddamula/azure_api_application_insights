@@ -1,0 +1,1 @@
+# azure_api_application_insights
